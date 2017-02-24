@@ -10,6 +10,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   line-height: 150%;
+  background-position: left;
 }
 
 #main {
