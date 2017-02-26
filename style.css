@@ -7,7 +7,7 @@ body {
        -o-background-size: 50% auto;
           background-size: 50% auto;
   background-image: url(two.png);
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
   background-attachment: fixed;
   line-height: 150%;
   background-position: left;
