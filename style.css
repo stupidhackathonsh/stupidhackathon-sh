@@ -5,8 +5,8 @@ body {
   -webkit-background-size: 50% auto;
      -moz-background-size: 50% auto;
        -o-background-size: 50% auto;
-          background-size: 50% auto;
-  background-image: url(two.png);
+          background-size: 37% auto;
+  background-image: url(Images/poster_with_time.png);
   background-repeat: repeat-y;
   background-attachment: fixed;
   line-height: 150%;
@@ -14,8 +14,8 @@ body {
 }
 
 #main {
-  width: 50%;
-  left: 50%;
+  width: 65%;
+  left: 35%;
   position:absolute;
 }
 
